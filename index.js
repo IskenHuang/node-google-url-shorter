@@ -47,6 +47,7 @@ module.exports = {
             }
         }, function (error, response, body) {
             if(response.statusCode === 200 || response.statusCode === 304){
+                body.qrcode = body.id + '.qr';
                 deferred.resolve(body);
             } else {
                 deferred.reject(error);
