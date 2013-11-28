@@ -1,0 +1,26 @@
+{
+  "name": "node-google-url-shorter",
+  "version": "0.0.1",
+  "description": "Google url shorter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/IskenHuang/node-google-url-shorter.git"
+  },
+  "keywords": [
+    "google",
+    "urlshorter"
+  ],
+  "author": "Isken Huang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IskenHuang/node-google-url-shorter/issues"
+  },
+  "dependencies": {
+    "q": "~0.9.7",
+    "request": "~2.27.0"
+  }
+}
