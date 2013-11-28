@@ -1,5 +1,5 @@
 {
-  "name": "node-google-url-shorter",
+  "name": "node-url-shorter",
   "version": "0.0.1",
   "description": "Google url shorter",
   "main": "index.js",
