@@ -1,6 +1,6 @@
 {
   "name": "node-url-shorter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Google url shorter",
   "main": "index.js",
   "scripts": {
