@@ -1,7 +1,7 @@
 node-google-url-shorter
 =======================
 
-Google url shorter nodejs version. Easily to used Google url shorter(goo.gl) in nodejs.
+Google url shorter nodejs version. Easily to used Google url shorter(goo.gl) in nodejs. Shortening your url and get short url QR Code.
 
 # how to use
 ```
