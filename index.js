@@ -8,7 +8,7 @@
  */
 
 var Request = require('request'),
-    Q = require('Q');
+    Q = require('q');
 
 module.exports = {
 
